@@ -1,2 +1,2 @@
-# newtonsucks
-why me i HATE coding
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
